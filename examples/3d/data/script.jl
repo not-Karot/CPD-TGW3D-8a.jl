@@ -1,12 +1,13 @@
 using LinearAlgebraicRepresentation
-using Plasm, LinearAlgebra
+using LinearAlgebra #Plasm,
 Lar = LinearAlgebraicRepresentation
 using SparseArrays
-
+using ViewerGL
+GL = ViewerGL
 # shell> cd ~/Documents/dev/LinearAlgebraicRepresentation.jl
 # /Users/paoluzzi/Documents/dev/LinearAlgebraicRepresentation.jl
 
-include("./examples/3d/data/LARinput.jl")
+include("./LARinput.jl")
 
 # s = Lar.Struct(store)
 # V,CV,FV,EV = Lar.struct2lar(s)
@@ -30,9 +31,11 @@ close(f)
 
 V,EVs,FVs = Lar.obj2lar("./test/out3d.obj")
 
-Plasm.view(V, FVs[1])
+
+GL.VIEW(V, FVs[1])
+#Plasm.view(V, FVs[1])
 
 
 for k=1:length(FVs)
-	Plasm.view(V, FVs[k])
+	#Plasm.view(V, FVs[k])
 end
