@@ -1,4 +1,4 @@
-using Plasm, ViewerGL, LinearAlgebra
+using ViewerGL, LinearAlgebra
 GL = ViewerGL
 using LinearAlgebraicRepresentation
 Lar = LinearAlgebraicRepresentation
@@ -27,14 +27,6 @@ end
 str = Lar.Struct(store);
 V,CV,FV,EV = Lar.struct2lar(str);
 # V = Plasm.normalize3D(V) TODO:  solve MethodError bug
-
-open("/tmp/lar.txt", "w") do f
-	write(f, "V = $V\n\n")
-	write(f, "CV = $CV\n\n")
-	write(f, "FV = $FV\n\n")
-	write(f, "EV = $EV\n\n")
-	close(f)
-end
 
 GL.VIEW([ GL.GLPol(V,CV, GL.COLORS[2], 0.1) ]);
 
