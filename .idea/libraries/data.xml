@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/3d/data/LARmodel.jl.zip!/" />
+      <root url="jar://$PROJECT_DIR$/examples/3d/data/fivecubes.obj.zip!/" />
+      <root url="jar://$PROJECT_DIR$/examples/3d/data/LAR.jl.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
