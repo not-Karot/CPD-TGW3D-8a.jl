@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f59ecea8-fde7-485b-9f7b-1ac820c3da17" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/Manifest.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/Project.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/make.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/n,m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/assets/arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/assets/documenter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/assets/lar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/boolean.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/congruence.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/examples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/complex1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/fig-pao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/fig0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/fig1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/fig2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/fig3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/fig4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/fig5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/fig6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/fig7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/images/images.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/model.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/planar_arrangement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/shells.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/spatial_arrangement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/spatial_indices.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/splitting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/tgw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/docs/src/utils.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/boolSample.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/cubes/cube.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/cubes/randomRotCubes.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/cubes/randomRotCubes2.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/cubes/timeCubeGrids.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/cubes/twoRotCubes.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/cubes/twocubegrids.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/cubes/twocubes.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/cubes/twofaceintersectingcubes.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/rods.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/spheres/randomSpheres.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/thetrahedrons/glued_tethrahedrons.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/thetrahedrons/non-manyfold-tetrahedron.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/3d/views.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/bridge.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/bridge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/bridge2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/examples/projection_sample.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/CSG_example.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/all_examples.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/boolean.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/cellular_complex.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/cycles_boundaries.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/planar_algebra_2D.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/solid_algebra_3D.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/space_arrangement.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/space_arrangement_2d.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/subdivision_of_2_cells.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/svg/box.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/svg/openings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/svg/rectangle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/svg/wall.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/paper/examples/updatedLarFunctions.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/CAGD.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/bool.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/congruence.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/input.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/lar_interface.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/loops.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/model.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/output.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/planar_arrangement.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/spatial_arrangement.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/spatial_indices.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/splitting.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/tgw2.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/tgw3.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/src/utils.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/cagd.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/congruence.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/input.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/loops.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/model.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/output.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/runtest.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/splitting.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/tgw2.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/tgw3.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CAGD.jl/test/utils.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/REQUIRE" beforeDir="false" afterPath="$PROJECT_DIR$/REQUIRE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/make.jl" beforeDir="false" afterPath="$PROJECT_DIR$/docs/make.jl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/arrangement.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/arrangement.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/arrangement_steps.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/chains.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/cube10x10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/grids-3d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/grids.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/mappings-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/mappings-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/mappings-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/monospace_juliarepl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/parts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/planar_arrangement.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/refectory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/struct-ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/struct-cd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/images/sweepline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/integr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/interface.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/lar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/largrid.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/mapper.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/simplexn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/struct.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/allexamples2d.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/arrangement2d.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/biconnectedgraphs.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/bool2d.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/boolean.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/dwelling.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/graphalgorithms.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/orient2d.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/point_in_polygon.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/randomarrangement2d.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/randombubbles.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/randomlines.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/randomshapes.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/stresstest2d.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/svg2lar.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/threesquares.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/tinypolygons.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/triangle.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/2d/twoholes.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/allexamples3d.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/bool3d.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/cellproducts.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/data/LAR.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/data/LAR.jl.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/data/LARinput.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/data/LARmodel.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/data/LARmodel.jl.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/data/LARtrias.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/data/addendum.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/data/fivecubes.obj.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/data/script.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/joint.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/juliacon2019.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/plasm-ops.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/pols2trias.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/portal_vein.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/portal_vein0.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/randomcubes.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/randomshapes.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/simplexn_examples.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/stresstest3d.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/struct_examples.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/threerods.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/two_tetrahedrons.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/twocubegrids.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/3d/viewsubcomplex.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/Boolean-Nef.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/COMPLEXFACET.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/COMPLEXSPHEREMAP.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/QUADRATICWALLGRID.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/ROTCYLINDER.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/TETGRID.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/figs/COMPLEXFACET-01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/figs/COMPLEXFACET-02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/figs/COMPLEXFACET-03.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/figs/COMPLEXFACET-04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/figs/COMPLEXFACET-05.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/figs/TETGRID-01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/figs/TETGRID-02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/figs/example.02.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/CGAL/figs/example.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dimension_travel.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fenvs.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fragment_face.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/lar2obj.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/lar2obj2D.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/planar_arrangement.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/runtests.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/Lar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/assembly/box.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/assembly/openings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/assembly/rectangle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/assembly/wall.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/boundarytest2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/curved.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/holes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/howto.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/howto2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/interior.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/new.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/paths.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/tile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/svg/twopaths.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_minimal_3cycles.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_planar_arrangement.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tgw_loop_data.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tweak_lines.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/utilities.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/.ipynb_checkpoints/Untitled3-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/.ipynb_checkpoints/bcompat-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/.ipynb_checkpoints/partialview-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/Untitled1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Untitled1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/Untitled2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Untitled2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/Untitled3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bcompat.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bcompat.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/errored-1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/errored-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/figs/tre cubi/1a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/figs/tre cubi/Untitled 19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/figs/tre cubi/trecubi-facce-21-31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/figs/tre cubi/trecubi-sspigoli.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/figs/tre cubi/trecubi-trecubi-faccia-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/figs/tre cubi/trecubi-trecubi-faccia-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/figs/tre cubi/trecubi_modello.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/loopingTGW.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/maps.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/partialview.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/preloop.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/step-by-step.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/test-cob-bo.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/test.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/test3cubes.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/testarrangement.jl" beforeDir="false" afterPath="$PROJECT_DIR$/test/testarrangement.jl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AbguvEmogN53vH7z2GXVw5n1vO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/docs/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Juliarun" type="JULIA_RUN_CONFIG_ID" factoryName="Julia">
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="targetFile" value="$PROJECT_DIR$/test/testarrangement.jl" />
+      <setting name="additionalOptions" value="" />
+      <setting name="programArgs" value="" />
+      <setting name="juliaExecutive" value="/Applications/Julia-1.7.app/Contents/Resources/julia/bin/julia" />
+      <setting name="jitCompiler" value="yes" />
+      <setting name="deprecationWarning" value="yes" />
+      <setting name="codeCoverage" value="none" />
+      <setting name="trackAllocation" value="none" />
+      <setting name="systemImage" value="" />
+      <setting name="systemImageOption" value="false" />
+      <setting name="inlineOption" value="false" />
+      <setting name="checkBoundsOption" value="false" />
+      <setting name="colorOption" value="true" />
+      <setting name="mathModeOption" value="false" />
+      <setting name="handleSignalOption" value="false" />
+      <setting name="startupFileOption" value="true" />
+      <setting name="historyOption" value="false" />
+      <setting name="launchReplOption" value="false" />
+      <setting name="optimizationLevel" value="3" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f59ecea8-fde7-485b-9f7b-1ac820c3da17" name="Changes" comment="" />
+      <created>1655283926708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655283926708</updated>
+      <workItem from="1655283929262" duration="1823000" />
+      <workItem from="1655285932172" duration="67000" />
+      <workItem from="1655286011510" duration="1489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

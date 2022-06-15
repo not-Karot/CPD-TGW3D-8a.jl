@@ -1,5 +1,6 @@
 push!(LOAD_PATH,"../src/")
-
+import Pkg;
+Pkg.add("Documenter")
 using Documenter, LinearAlgebraicRepresentation
 Lar = LinearAlgebraicRepresentation
 
@@ -8,21 +9,10 @@ makedocs(
 	format = Documenter.HTML(
 		prettyurls = get(ENV, "CI", nothing) == "true"
 	),
-	sitename = "LinearAlgebraicRepresentation.jl",
+	sitename = "CPD-TGW3D-8a.jl",
 	assets = ["assets/lar.css", "assets/logo.png"],
 	pages = [
 		"Home" => "index.md",
-		"L.A.R. Intro" => "lar.md",
-		"Interface" => "interface.md",
-		"Arrangement" => "arrangement.md",
-		"Parametric primitives" => [
-			"Mapper" => "mapper.md",
-			"Assemblies" => "struct.md"
-		],
-		"Grid generation" => [
-			"Cuboidal grids" => "largrid.md",
-			"Simplicial grids" => "simplexn.md"
-		],
-		"Domain integration" => "integr.md",
+		"TGW3D-8a" => "arrangement.md",
 	]
 )
