@@ -6,7 +6,7 @@
 Calcolo parallelo e distribuito\
 **LAR - Topological gift wrapping in 3D**\
 *Gruppo 8a*\
-:::
+
 
 \
 
