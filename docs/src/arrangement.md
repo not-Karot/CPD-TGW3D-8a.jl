@@ -1,11 +1,4 @@
----
-title: |
-  Report\
-  CPD22 - Assignment #3\
-  Delivery #1
----
 
-::: titlepage
 ![image](images/logo-roma-tre-blu-corretto-500x271.jpg)\
 [Magistrale in ingnegneria informatica]{.smallcaps}
 
